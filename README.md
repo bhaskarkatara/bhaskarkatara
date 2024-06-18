@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhaskarkatararjo5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUwLfzzPWQ0VEci_l2gokYC8cWk_7YZl/view?usp=drive_link](https://drive.google.com/file/d/1CUwLfzzPWQ0VEci_l2gokYC8cWk_7YZl/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qHm6H193UObLHT_VpVzBIwlPDDsNBTQG/view?usp=drive_link](https://drive.google.com/file/d/1qHm6H193UObLHT_VpVzBIwlPDDsNBTQG/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am memer rather than Coder**
 
@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/bhaskar katara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar katara" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaskar_katara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaskar_katara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bhaskar katara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhaskar katara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@bhaskarkatararj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhaskarkatararj1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bhaskarkatararjo5@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhaskarkatararjo5@" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhaskar003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskar003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhaskarka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhaskarka" height="30" width="40" /></a>
