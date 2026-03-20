@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar katara</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">Passionate for CYBER-SECURITY </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkatara&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkatara" /> </p>
 
@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **bhaskarkatararjo5@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qHm6H193UObLHT_VpVzBIwlPDDsNBTQG/view?usp=drive_link](https://drive.google.com/file/d/1qHm6H193UObLHT_VpVzBIwlPDDsNBTQG/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am memer rather than Coder**
 
